@@ -1,0 +1,17 @@
+h1 {
+    text-transform: uppercase;
+}
+
+a {
+    font-size: 20px;
+    text-decoration: none;
+}
+
+a:visited {
+    color: blue;
+}
+
+img {
+    width: 200px;
+    height: auto;
+}
